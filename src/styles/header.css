@@ -1,0 +1,10 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 50px;
+}
+.gogo img {
+  width: 120px;
+  height: 40px;
+}
